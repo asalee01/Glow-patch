@@ -8,7 +8,9 @@ Over 50 epochs the model the model achieved an mAP@0.5 score of 0.93245, a 1.6% 
 Ling et. al's paper.
 
 We use **Fiftyone** to streamline the COCO dataset sanitization and cleaning process. Training using the **Ultralytics** library
-we deploy our model using **Flask, FastAPI, Docker, and AWS** available at [Glow Patch](http://18.190.152.65/).
+we deploy our model using **Flask, FastAPI, Docker, and AWS**.
+
+Use our solution at [Glow Patch](http://18.190.152.65/)
 
 This project was developed during the Voxel51 AI Hackathon at the University of British Columbia and we extended the functionality
 by deploying the app afterwards.
