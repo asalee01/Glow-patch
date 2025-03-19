@@ -95,7 +95,7 @@ Now the app should be running locally on port 80.
 
 ✅ Real-time object detection with live video input.
 
-✅ Port webapp to IOS, Android with Tesla compatability.
+✅ Port webapp to iOS, Android with Tesla compatability.
 
 ---
 ## **Contributions**
