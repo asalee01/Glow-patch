@@ -1,0 +1,8 @@
+*.png
+*.jpg
+*.txt
+
+!embeddings.png
+!result.png
+!val_pred.jpg
+!requirements.txt
