@@ -1,5 +1,5 @@
 names:
   0: pothole
-path: C:\Users\ahuss\Documents\ML Projects\Voxel51-Hackthon\images
+path: C:\Users\ahuss\Documents\ML Projects\Glow-patch\images
 train: .\images\train\
 val: .\images\val\

@@ -1,2 +1,6 @@
 *.png
 *.jpg
+
+!embeddings.png
+!result.png
+!val_pred.png
