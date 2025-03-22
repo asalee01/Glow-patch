@@ -1,0 +1,6 @@
+path: C:\Users\athif\OneDrive\Documents\Hackathon-Voxel51
+train: train/images
+val: val/images
+test: test/images
+names:
+  0: pothole
