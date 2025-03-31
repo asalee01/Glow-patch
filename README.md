@@ -10,7 +10,7 @@ Ling et. al's paper.
 We use **Fiftyone** to streamline the COCO dataset sanitization and cleaning process. Training using the **Ultralytics** library
 we deploy our model using **Flask, FastAPI, Docker, and AWS**.
 
-Use our solution at [Glow Patch](http://18.190.152.65/)
+Use our solution at [Glow Patch](http://3.141.4.144/)
 
 This project was developed during the Voxel51 AI Hackathon at the University of British Columbia and we extended the functionality
 by deploying the app afterwards.
